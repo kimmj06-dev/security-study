@@ -1,2 +1,3 @@
-*
-First rewrite in vmware terminal.
+# security-study
+
+Security study repository for system hacking and reversing.
